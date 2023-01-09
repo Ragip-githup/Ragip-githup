@@ -53,8 +53,8 @@
 <li>Feature Selection</li>
 </ul>
 
-<i><b>We will make 2 HTML and CSS PROJECTS.</b></i><br>
-<i><b>You will do 1 HTML and CSS PROJECT.</b></i>
+<i><b>* We will make 2 HTML and CSS PROJECTS.</b></i><br>
+<i><b>* You will do 1 HTML and CSS PROJECT.</b></i>
 
 <h3>4. HTML5</h3>
 <ul>
@@ -91,8 +91,8 @@
 <li>Variables</li>
 <li>Grid Structure</li>
 </ul>
-<i><b>We will make 2 HTML5 and CSS3 PROJECTS.</b></i><br>
-<i><b>You will do 1 HTML5 and CSS3 PROJECT.</b></i>
+<i><b>* We will make 2 HTML5 and CSS3 PROJECTS.</b></i><br>
+<i><b>* You will do 1 HTML5 and CSS3 PROJECT.</b></i>
 
 <h3>4. Git/Github</h3>
 <ul>
@@ -107,8 +107,8 @@
 <li>Documentation with readme.md settings</li>
 <li>Other Git Commands</li>
 </ul>
-<i><b>We will make 2 HTML5 and CSS3 PROJECTs and upload them to Github.</b></i>
-<i><b>1 HTML5 and CSS3 PROJECT You will make and upload to Github and upload previous projects with Gifs and Documentation.</b></i>
+<i><b>* We will make 2 HTML5 and CSS3 PROJECTs and upload them to Github.</b></i><br>
+<i><b>* 1 HTML5 and CSS3 PROJECT You will make and upload to Github and upload previous projects with Gifs and Documentation.</b></i>
 
 <h3>5. BOOTSTRAP</h3>
 <ul>
@@ -123,8 +123,8 @@
 <li>Button Groups</li>
 </ul>
 
-<i><b>We will make 2 Bootstrap PROJECTs and post them on Github.</i></b><br>
-<i><b>You will make 1 Bootstrap PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
+<i><b>* We will make 2 Bootstrap PROJECTs and post them on Github.</i></b><br>
+<i><b>* You will make 1 Bootstrap PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
 
 <h3>6. JAVASCRIPT</h3>
 <ul>
@@ -177,8 +177,8 @@
 <li>async</li>
 </ul>
 
-<i><b>We will make 2 JS PROJECTS and post them on Github.</i></b>
-<i><b>You will make 1 JS PROJECT and you will upload it to Github with Gif and Documentation.<i/></b>
+<i><b>* We will make 2 JS PROJECTS and post them on Github.</i></b><br>
+<i><b>* You will make 1 JS PROJECT and you will upload it to Github with Gif and Documentation.<i/></b>
 
 <h4>6.1. JENKINS</h4>
 <ul>
@@ -214,8 +214,8 @@
 <li>Restful API introduction and methods (GET, POST, PUT, DELETE)</li>
 <li>Introducing the JSON Placeholder library and making CRUD operations by installing a fake Rest API</li>
 </ul>
-<i><b>We will make 2 React PROJECTs and post them on Github.</i></b>
-<i><b>You will make 1 React PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
+<i><b>* We will make 2 React PROJECTs and post them on Github.</i></b>
+<i><b>* You will make 1 React PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
 
 <h4>7.1 REACT - REDUX</h4>
 <ul>
@@ -228,8 +228,8 @@
 <li>Example Redux and Redux-toolkit project</li>
 </ul>
 
-<i><b>We will make 1 Redux-Toolkit PROJECT and post it on Github.</i></b>
-<i><b>You will make 1 Redux-Toolkit and upload it to Github with Gif and Documentation.</i></b>
+<i><b>* We will make 1 Redux-Toolkit PROJECT and post it on Github.</i></b><br>
+<i><b>* You will make 1 Redux-Toolkit and upload it to Github with Gif and Documentation.</i></b>
 
 
 <h3>8 TYPESCRIPT</h3>
@@ -245,8 +245,8 @@
 <li>Read-only property</li>
 <li>Generics</li>
 </ul>
-<i><b>We will make 1 TS PROJECT and post it on Github.</i></b><br>
-<i><b>You will make 1 TS PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
+<i><b>* We will make 1 TS PROJECT and post it on Github.</i></b><br>
+<i><b>* You will make 1 TS PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
 
 <h3>9. MVC</h3>
 <ul>
@@ -285,7 +285,7 @@
 <li>Project Publishing Methods</li>
 <li>Publishing a Sample Project</li>
 </ul>
-<i><b>You Will Publish 1 PROJECT</i></b>
+<i><b>* You Will Publish 1 PROJECT</i></b>
 
 <h3>15. CV</h3>
 <ul>
