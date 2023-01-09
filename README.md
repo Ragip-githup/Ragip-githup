@@ -2,67 +2,72 @@
 
 <h1>Hi I am RAKIP ATABEY</h1>
 
-<h2>my course teacher https://www.linkedin.com/in/isveckrali/</h2>
+## my course teacher https://www.linkedin.com/in/isveckrali/
 
-<h2>My linkedin https://www.linkedin.com/in/rakip-atabey-630970168/</h2>
+## My linkedin https://www.linkedin.com/in/rakip-atabey-630970168/
 
-<h1>Course content I took</h1>
-
-COURSE CONTENTS
-<h3>1. Algorithm</h3>
-What is an Algorithm?<br>
-Flow Chart
-Examples
+<h3> COURSE CONTENTS</h3>
+<h3> 1. Algorithm</h3>
+<ul>
+ <li>What is an Algorithm?</li>
+<li>Flow Char</li>
+<li>Examples</li>
+ </ul>
 
 <h3>2. HTML</h3>
-What is HTML?<br>
-elements
-Features
-Links
-frame
-Listing
-Form Objects
-Adding Pictures
-Using Background
-Colors
-
+<ul>
+<li> What is HTML?</li>
+<li>Elements</li>
+<li>Features</li>
+<li>Links</li>
+<li>frame</li>
+<li>Listing</li>
+<li>Form Objects</li>
+<li>Adding Pictures</li>
+<li>sing Background</li>
+<li>Colors</li>
+ </ul>
 <h3>3.CSS</h3>
-What is CSS?
-Code structure
-Id and Class Selection
-Introducing CSS
-Background
-Articles
-Fonts
-Links
-Listing
-Tables
-Box Model
-Borders
-Outer Borders
-Drinking Spaces
-Grouping and Overwriting
-Limitations
-Show/Hide
-positions
-Scroll
-align
-transparency
-Feature Selection
+<ul>
+<li>What is CSS?</li>
+<li>Code structure</li>
+<li>Id and Class Selection</li>
+<li>Introducing CSS</li>
+<li>Background</li>
+<li>Articles</li>
+<li>Fonts</li>
+<li>Links</li>
+<li>Listing</li>
+<li>Tables</li>
+<li>Box Model</li>
+<li>Borders</li>
+<li>Outer Borders</li>
+<li>Drinking Spacesv
+<li>Grouping and Overwriting</li>
+<li>Limitations</li>
+<li>Show/Hide</li>
+<li>Positions</li>
+<li>Scroll</li>
+<li>Align</li>
+<li>Transparency</li>
+<li>Feature Selection</li>
+</ul>
 
-We will make 2 HTML and CSS PROJECTS.
-You will do 1 HTML and CSS PROJECT.
+<i><b>We will make 2 HTML and CSS PROJECTS.</b></i><br>
+<i><b>You will do 1 HTML and CSS PROJECT.</b></i>
 
 <h3>4. HTML5</h3>
-What is HTML5?
-HTML5 structure
-Form Elements
-Input Types
-Input Features
-Adding Videos
-Adding Sound
-Transition
-SVG
+<ul>
+<li>What is HTML5?</li>
+<li>HTML5 structure</li></li>
+<li>Form Elements</li>
+<li>Input Types</li>
+<li>Input Features</li>
+<li>Adding Videos</li>
+<li>Adding Sound</li>
+<li>Transition</li>
+<li>SVG</li>
+</ul>
 
 <h3>3. CSS3</h3>
 
@@ -86,8 +91,8 @@ Background Blending
 Variables
 Grid Structure
 
-We will make 2 HTML5 and CSS3 PROJECTS.
-You will do 1 HTML5 and CSS3 PROJECT.
+<i><b>We will make 2 HTML5 and CSS3 PROJECTS.</b></i><br>
+<i><b>You will do 1 HTML5 and CSS3 PROJECT.</b></i>
 
 <h3>4. Git/Github</h3>
 
@@ -102,8 +107,8 @@ Remote Repository Commands
 Documentation with readme.md settings
 Other Git Commands
 
-We will make 2 HTML5 and CSS3 PROJECTs and upload them to Github.
-1 HTML5 and CSS3 PROJECT You will make and upload to Github and upload previous projects with Gifs and Documentation.
+<i><b>We will make 2 HTML5 and CSS3 PROJECTs and upload them to Github.</b></i>
+<i><b>1 HTML5 and CSS3 PROJECT You will make and upload to Github and upload previous projects with Gifs and Documentation.</b></i>
 
 <h3>5. BOOTSTRAP</h3>
 
@@ -118,8 +123,8 @@ Buttons
 Button Groups
 
 
-We will make 2 Bootstrap PROJECTs and post them on Github.
-You will make 1 Bootstrap PROJECT and you will upload it to Github with Gif and Documentation.
+<i><b>We will make 2 Bootstrap PROJECTs and post them on Github.</i></b><br>
+<i><b>You will make 1 Bootstrap PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
 
 <h3>6. JAVASCRIPT</h3>
 
@@ -252,12 +257,12 @@ What is Swagger? What does it do?<br>
 How to use the request template in Swagger?<br>
 Generating a sample request using the template in Swagger.
 
-10. MVVM<br>
+<h3>10. MVVM</h3>
 
-What is MVVM? How to use?<br>
+What is MVVM? How to use?
 
 
-14. SASS / SCSS<br>
+<h3>14. SASS / SCSS</h3>
 
 Variable
 nested use
@@ -268,21 +273,21 @@ operators
 Loops
 Decision Structures
 
-15. AGIL<br>
+<h3>15. AGIL</h3>
 What is Agile and how is it applied?<br>
 
-14.1 PROJECT PUBLISHING<br>
+<h4>14.1 PROJECT PUBLISHING</h4>
 
 Project Publishing Methods
 Publishing a Sample Project
 
 You Will Publish 1 PROJECT
 
-15. CV<br>
+<h3>15. CV</h3>
 
 How should the CV be, Filling references and content
 
-16. Interview<br>
+<h3>16. Interview</h3>
 
 Technical interviews.
 <!--
