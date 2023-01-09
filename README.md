@@ -214,7 +214,7 @@
 <li>Restful API introduction and methods (GET, POST, PUT, DELETE)</li>
 <li>Introducing the JSON Placeholder library and making CRUD operations by installing a fake Rest API</li>
 </ul>
-<i><b>* We will make 2 React PROJECTs and post them on Github.</i></b>
+<i><b>* We will make 2 React PROJECTs and post them on Github.</i></b><br>
 <i><b>* You will make 1 React PROJECT and you will upload it to Github with Gif and Documentation.</i></b>
 
 <h4>7.1 REACT - REDUX</h4>
