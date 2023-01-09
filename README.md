@@ -9,13 +9,13 @@
 <h1>Course content I took</h1>
 
 COURSE CONTENTS
-1. Algorithm
-What is an Algorithm?
+<h3>1. Algorithm</h3>
+What is an Algorithm?<br>
 Flow Chart
 Examples
 
-2. HTML
-What is HTML?
+<h3>2. HTML</h3>
+What is HTML?<br>
 elements
 Features
 Links
@@ -26,7 +26,7 @@ Adding Pictures
 Using Background
 Colors
 
-3. CSS
+<h3>3.CSS</h3>
 What is CSS?
 Code structure
 Id and Class Selection
@@ -53,7 +53,7 @@ Feature Selection
 We will make 2 HTML and CSS PROJECTS.
 You will do 1 HTML and CSS PROJECT.
 
-4. HTML5
+<h3>4. HTML5</h3>
 What is HTML5?
 HTML5 structure
 Form Elements
@@ -64,7 +64,7 @@ Adding Sound
 Transition
 SVG
 
-3. CSS3
+<h3>3. CSS3</h3>
 
 What is CSS3?
 Edge Rounding
@@ -89,7 +89,7 @@ Grid Structure
 We will make 2 HTML5 and CSS3 PROJECTS.
 You will do 1 HTML5 and CSS3 PROJECT.
 
-4. Git/Github
+<h3>4. Git/Github</h3>
 
 What is Git/Github?
 Github account creation
@@ -105,7 +105,7 @@ Other Git Commands
 We will make 2 HTML5 and CSS3 PROJECTs and upload them to Github.
 1 HTML5 and CSS3 PROJECT You will make and upload to Github and upload previous projects with Gifs and Documentation.
 
-5. BOOTSTRAP
+<h3>5. BOOTSTRAP</h3>
 
 What is Bootstrap?
 container
@@ -121,7 +121,7 @@ Button Groups
 We will make 2 Bootstrap PROJECTs and post them on Github.
 You will make 1 Bootstrap PROJECT and you will upload it to Github with Gif and Documentation.
 
-6. JAVASCRIPT
+<h3>6. JAVASCRIPT</h3>
 
 What is JS?
 JS binding
@@ -176,25 +176,25 @@ async
 We will make 2 JS PROJECTS and post them on Github.
 You will make 1 JS PROJECT and you will upload it to Github with Gif and Documentation.
 
-6.1. JENKINS
+<h4>6.1. JENKINS</h4>
 
 What is Jenkins? How to use?
 
-6.2. CLOUDS
+<h4>6.2. CLOUDS</h4>
 What are cloud systems and how are they used?
 AWS and Firebase structure
 
-6.3. TESTING
+<h4>6.3. TESTING<h4>
 
 What is Unit Testing? How to use?
 Other Test Environments/Tools
 
-6.4. Trello/Jira
+<h4>6.4. Trello/Jira</h4>
 
 What is Trello/Jira and how is it used?
 
 
-7. REACT
+<h3>7. REACT</h3>
  
 What is React? (Comparison with vanilla JS)
 DOM and VDOM relationship
@@ -212,8 +212,8 @@ Introducing the JSON Placeholder library and making CRUD operations by installin
 We will make 2 React PROJECTs and post them on Github.
 You will make 1 React PROJECT and you will upload it to Github with Gif and Documentation.
 
-7.1 REACT - REDUX
-What is state management, why is it needed?
+<h4>7.1 REACT - REDUX</h4>
+What is state management, why is it needed?<br>
 Redux installation (Store, initialState, reducer, action)
 Differences with the useState hook
 Differences with context
@@ -226,8 +226,8 @@ We will make 1 Redux-Toolkit PROJECT and post it on Github.
 You will make 1 Redux-Toolkit and upload it to Github with Gif and Documentation.
 
 
-8 TYPESCRIPT
-What is TypeScript and How to Install it?
+<h3>8 TYPESCRIPT</h3>
+What is TypeScript and How to Install it?<br>
 Simple Types
 tuple
 Interface
@@ -238,26 +238,26 @@ Access Specifiers (public, private, protected)
 read-only property
 generics
 
-We will make 1 TS PROJECT and post it on Github.
+We will make 1 TS PROJECT and post it on Github.<br>
 You will make 1 TS PROJECT and you will upload it to Github with Gif and Documentation.
 
-9. MVC
+<h3>9. MVC</h3>
 
-What is MVC?
+What is MVC?<br>
 How to make a react project by following the MVC pattern?
 
-9.1.SWAGGER
+<h4>9.1.SWAGGER</h4>
 
-What is Swagger? What does it do?
-How to use the request template in Swagger?
+What is Swagger? What does it do?<br>
+How to use the request template in Swagger?<br>
 Generating a sample request using the template in Swagger.
 
-10. MVVM
+10. MVVM<br>
 
-What is MVVM? How to use?
+What is MVVM? How to use?<br>
 
 
-14. SASS / SCSS
+14. SASS / SCSS<br>
 
 Variable
 nested use
@@ -268,21 +268,21 @@ operators
 Loops
 Decision Structures
 
-15. AGIL
-What is Agile and how is it applied?
+15. AGIL<br>
+What is Agile and how is it applied?<br>
 
-14.1 PROJECT PUBLISHING
+14.1 PROJECT PUBLISHING<br>
 
 Project Publishing Methods
 Publishing a Sample Project
 
 You Will Publish 1 PROJECT
 
-15. CV
+15. CV<br>
 
 How should the CV be, Filling references and content
 
-16. Interview
+16. Interview<br>
 
 Technical interviews.
 <!--
