@@ -6,7 +6,9 @@
 
 ## My linkedin https://www.linkedin.com/in/rakip-atabey-630970168/
 
-<h3> COURSE CONTENTS</h3>
+<details>
+  <summary>COURSE CONTENTS</summary>
+ 
 <h3> 1. Algorithm</h3>
 <ul>
  <li>What is an Algorithm?</li>
@@ -295,6 +297,10 @@
 <ul>
 <li>Technical interviews.</li>
 </ul>
+</details>
+
+
+
 <!--
 **Ragip-githup/Ragip-githup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
