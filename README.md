@@ -4,7 +4,7 @@
 
 ## my course teacher https://www.linkedin.com/in/isveckrali/
 
-## My linkedin https://www.linkedin.com/in/rakip-atabey-630970168/
+## My linkedin https://www.linkedin.com/in/rakipatabey/
 
 <details>
   <summary>COURSE CONTENTS</summary>
